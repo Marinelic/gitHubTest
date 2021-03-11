@@ -15,18 +15,18 @@
                 <input type="text" name="ime">
                 </div>
 
-        <br>
-
             <div>
                 <label>Prezime:</label>
                 <input type="text" name="prezime">
             </div>
-        <br>
+
+
             <div>
                 <label>Email:</label>
                 <input type="email" name="email">
             </div>
-        <br>
+
+            
         <div>
             <label>Poruka:</label>
             <textarea name="poruka"></textarea>
